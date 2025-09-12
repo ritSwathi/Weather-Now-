@@ -1,0 +1,33 @@
+.container {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.input {
+  padding: 10px;
+  width: 80%;
+  margin-bottom: 1rem;
+}
+
+.btn {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.card {
+  margin-top: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.error {
+  color: red;
+}
